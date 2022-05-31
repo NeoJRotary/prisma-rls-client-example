@@ -1,0 +1,14 @@
+{
+  "name": "prisma-rls-client-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:NeoJRotary/prisma-rls-client-example.git",
+  "author": "neo_chiu <a081483@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "^3.14.0"
+  },
+  "devDependencies": {
+    "prisma": "^3.14.0"
+  }
+}
